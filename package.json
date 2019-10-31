@@ -24,7 +24,7 @@
     "express-session": "^1.16.2",
     "jsonwebtoken": "^8.5.1",
     "lodash": "^4.17.15",
-    "mongoose": "^5.7.1",
+    "mongoose": "^5.7.5",
     "mqtt": "^3.0.0",
     "passport": "^0.4.0",
     "passport-local": "^1.0.0",
